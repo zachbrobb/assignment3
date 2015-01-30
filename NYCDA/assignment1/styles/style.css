@@ -1,0 +1,19 @@
+div {color:grey;
+}
+h1 {color:black
+}
+
+#header {
+	background-color: grey;
+	color:white;
+	font-family: Helvetica;
+	padding:10px;
+}
+
+.content {
+	color:black;
+	font-family: Helvetica;
+	font-size: 14px;
+	padding: 6px;
+}
+

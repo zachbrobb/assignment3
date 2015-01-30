@@ -1,0 +1,51 @@
+html {font-family: 'Oswald';
+background-color: #FFFFFF;
+}
+
+#header {
+	font-family: 'Oswald', sans-serif;
+	/* opacity: 0.1; */
+	font-size:40px;
+	background-color:#000000;
+	color:#FFFFFF;
+	padding:5px;
+}
+
+div#header p {
+	font-size:25px;
+	color:#FFFFFF;
+}
+
+.bullets {
+	background-repeat: repeat-y;
+	color:#000000;
+	width:50%;
+	font-family: 'Oswald';
+	font-size: 18px;
+	padding: 0px;
+}
+
+.image {
+	opacity: 0.8;
+}
+
+.content {
+	background-repeat: repeat-y;
+	color:#000000;
+	width:100%;
+	font-family: 'Oswald';
+	font-size: 24px;
+	padding: 0px;
+}
+
+#footer {
+	padding: 0px;
+	color: #000000;
+	font-size: 15px;
+	opacity: .9;
+}
+
+
+
+
+
